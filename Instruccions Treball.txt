@@ -1,1 +1,24 @@
+ROLS TREBALL
+1- Josan: git master (70€/h) (80€/he) 15% BENEFICIS
+2- Fran: maquetator (70€/h) (80€/he) 15% BENEFICIS
+3- Toni: Project manager - CEO (80€/h) (100€/he) beneficis com a CEO 60%, el 10% pera I+D
 
+FEINA A FER PER TONI
+Manar correu a Buba informant dels Rols de treball.
+1- Contratació de la gent (dia 02/04/2025)
+2- Creació del ProjectLibre
+
+FEINA A FER PER JOSAN
+1- Crear el projecte a GitHub
+2- Fer un nou repositori
+3- Compartirlo amb Buba
+
+FEINA A FER PER FRAN
+1- Fran ha de penjar el html de la pàgina de viatges
+2- Fer model relacional
+3- Fer l'esquema de la base de dades
+4- Implementació script SQL
+
+FEINA DE TOTS
+1- Aclarir instruccions del projecte
+2- Aclarir forma en la que organitzem les carpetes
