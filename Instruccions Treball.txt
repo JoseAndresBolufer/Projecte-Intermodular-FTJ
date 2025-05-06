@@ -9,9 +9,10 @@ Manar correu a Buba informant dels Rols de treball.
 2- Creació del ProjectLibre
 
 FEINA A FER PER JOSAN
-1- Crear el projecte a GitHub
-2- Fer un nou repositori
+1- Crear el projecte a GitHub (FET)
+2- Fer un nou repositori (FET)
 3- Compartirlo amb Buba
+4- Fer els HTML de les noves parts de la web junt amb el CSS
 
 FEINA A FER PER FRAN
 1- Fran ha de penjar el html de la pàgina de viatges
@@ -22,3 +23,6 @@ FEINA A FER PER FRAN
 FEINA DE TOTS
 1- Aclarir instruccions del projecte
 2- Aclarir forma en la que organitzem les carpetes
+
+INSTRUCCIONS
+BBDD Inventar 5 destins, 5 usuarios i 5 guies per provar la BBDD.
