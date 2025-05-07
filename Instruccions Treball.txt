@@ -15,7 +15,7 @@ FEINA A FER PER JOSAN
 4- Fer els HTML de les noves parts de la web junt amb el CSS
 
 FEINA A FER PER FRAN
-1- Fran ha de penjar el html de la pàgina de viatges
+1- Fran ha de penjar el html de la pàgina de viatges // FET!
 2- Fer model relacional
 3- Fer l'esquema de la base de dades
 4- Implementació script SQL
